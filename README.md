@@ -38,27 +38,27 @@ Mac 之所以 **高效**，实际上是藉其自带特色功能以及原生的�
 
 ## ※ 实现方案
 
-### 多工作区（多桌面）支持：**[Dexpot](http://dexpot.de/)**
+#### 多工作区（多桌面）支持：**[Dexpot](http://dexpot.de/)**
 
 > 没有 Mac 的好用，但绝对够用了。
 
 > 商业软件推荐：[AltDesk](http://www.astonshell.com/altdesk/)（不推荐使用 MS 自家的）
 
 
-### 命令行环境：**[Babun（Cygwin + Oh-my-zsh + git + 众多运行环境）](http://babun.github.io/)**
+#### 命令行环境：**[Babun（Cygwin + Oh-my-zsh + git + 众多运行环境）](http://babun.github.io/)**
 
 > Cygwin 确实很不错，但这样包装一下就更完美了。Babun 自带包管理工具 ```pact```，极其方便。
 
 > 小巧的命令行工具：[Cmder](https://github.com/cmderdev/cmder)
 
-### 全局搜索框 / 快速启动器：**[Wox（Alfred for Windows，开源）](http://www.getwox.com/)**
+#### 全局搜索框 / 快速启动器：**[Wox（Alfred for Windows，开源）](http://www.getwox.com/)**
 
 > 而且还捎带上文件搜索神器 **[Everything](http://www.voidtools.com/)**，因此除了没有工作流外，基本满足开发需求。  
 
 > 该项的选择非常多， [Launchy](http://launchy.net/)、[ALTRun](https://code.google.com/archive/p/altrun/)、[FARR](http://www.donationcoder.com/Software/Mouser/findrun/index.html)，以及大神们最喜欢用的 ```win + R```
 
 
-### 其余效率相关
+#### 其余效率相关
 - **增强型文件管理器**：**[Total Commander](http://www.ghisler.com/)** 及其 [教程](https://xbeta.info/studytc/index.htm)。不过我用的是稍微简单一点的 **[Directory Opus](http://www.gpsoft.com.au/)**。  
   
 - **触发角与手势**：**[WGestures](http://www.yingdev.com/projects/wgestures)**，可媲美 Mac 的体验，甚至还有所加强！设置滑到边角就锁屏，懒得按键盘 ```win + L```了有木有！还可以配置写命令，国产开源的良心之作！快点去人家的 [Github](https://github.com/yingDev/WGestures) 上面点个星星吧亲！  
