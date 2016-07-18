@@ -38,7 +38,7 @@ Mac 之所以 **高效**，实际上是藉其自带特色功能以及原生的�
 > 该项的选择非常多， [Launchy](http://launchy.net/)、[ALTRun](https://code.google.com/archive/p/altrun/)、[FARR](http://www.donationcoder.com/Software/Mouser/findrun/index.html)，以及大神们最喜欢用的 ```win + R```  
 
 #### 其余效率相关
-- **增强型文件管理器**：**[Total Commander](http://www.ghisler.com/)** 及其 [教程](https://xbeta.info/studytc/index.htm)。不过我用的是稍微简单一点的 **[Directory Opus](http://www.gpsoft.com.au/)**。  
+- **增强型文件管理器**：**[Total Commander](http://www.ghisler.com/)** 及其 [教程](https://xbeta.info/studytc/index.htm)。不过我用的是稍微简单一点的 **[Directory Opus](http://www.gpsoft.com.au/)**  
   
 - **触发角与手势**：**[WGestures](http://www.yingdev.com/projects/wgestures)**，可媲美 Mac 的体验，甚至还有所加强！设置滑到边角就锁屏，懒得按键盘 ```win + L```了有木有！还可以配置写命令，国产开源的良心之作！快点去人家的 [Github](https://github.com/yingDev/WGestures) 上面点个星星吧亲！  
   
