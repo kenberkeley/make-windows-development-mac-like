@@ -30,7 +30,7 @@ Mac 之所以 **高效**，实际上是藉其自带特色功能以及原生的�
 #### 命令行环境：**[Babun（Cygwin + Oh-my-zsh + git + 众多运行环境）](http://babun.github.io/)**
 > Babun 自带包管理工具 ```pact```，极其方便  
 > **[P.S]**  Babun 使用`Ctrl + C`中断 node 进程，实际上 node 依旧还在运行，见 [issue](https://github.com/babun/babun/issues/391)  
-> ## 因此最终建议使用超级好用的 [Git Bash](https://git-for-windows.github.io/)  
+> ### 因此最终建议使用超级好用的 [Git Bash](https://git-for-windows.github.io/)  
   
 #### 全局搜索框 / 快速启动器：**[Wox（Alfred for Windows，开源）](http://www.getwox.com/)**
 > 而且还捎带上文件搜索神器 **[Everything](http://www.voidtools.com/)**，因此除了没有工作流外，基本满足开发需求。  
